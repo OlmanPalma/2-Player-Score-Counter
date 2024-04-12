@@ -1,0 +1,89 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    font-family: Times New Roman;
+    color: #1C2833;
+}
+
+p {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 17px;
+    border-style: solid;
+    border-radius: 10px;
+    box-shadow: 0 0 1px black;
+}
+
+label {
+    text-align: center;
+    margin: 100px;
+}
+
+.container1 {
+    width: 325px;
+    height: 525px;
+    text-align: center;
+    background-color: beige;
+    margin: auto;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 0 0 20px black;
+}
+
+.player1ScoreLabel {
+    width: 30px;
+    background-color: #CD6155;
+    display: center;
+    text-align: center;
+    margin: auto;
+    font-size: 100px;
+    color: white;
+    border-radius: 10px;
+    padding: 0 20px 0 20px;
+}
+
+.player2ScoreLabel {
+    width: 30px;
+    background-color: #7FB3D5;
+    display: center;
+    text-align: center;
+    margin: auto;
+    font-size: 100px;
+    color: white;
+    border-radius: 10px;
+    padding: 0 20px 0 20px;
+}
+
+button {
+    margin: auto;
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.buttons1 {
+    padding: 10px 20px;
+    background-color: #F44336;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 2px black;
+
+}
+
+.buttons2 {
+    padding: 10px 20px;
+    background-color: #2196F3;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 2px black;
+}
